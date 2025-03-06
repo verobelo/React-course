@@ -1,4 +1,4 @@
-# React-based projects from the course by [@midudev] (https://cursoreact.dev/)
+## React-based projects from the course by [@midudev] (https://cursoreact.dev/)
 
 ## List of the projects
 - TWITTER FOLLOW-CARDS
