@@ -1,7 +1,7 @@
 # React-based projects from the course by [@midudev] (https://cursoreact.dev/)
 
 ## List of the projects
-- Twtter Follow-Cards
+- TWITTER FOLLOW-CARDS
 > Basic React concepts (Components, props, styling)
-- Tic - Tac - Toe
+- TIC - TAC - TOE
 > useState && useEffect Hooks, handling Events
