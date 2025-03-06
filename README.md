@@ -2,6 +2,6 @@
 
 ## List of the projects
 - TWITTER FOLLOW-CARDS
-> Basic React concepts (Components, props, styling)
+*Basic React concepts (Components, props, styling)*
 - TIC - TAC - TOE
-> useState && useEffect Hooks, handling Events
+*useState && useEffect Hooks, handling Events*
