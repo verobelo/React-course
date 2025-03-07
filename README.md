@@ -4,6 +4,6 @@
 
 | Number  | Name | Concepts| Live |
 | :--- | :--- | :--- | :--- |
-| 00  | Twitter Card | Components, props, styling | [Link](react-twitter-card.vercel.card)
-| 01  | Tic-Tac-Toe | useState |
+| 00  | Twitter Card | Components, props, styling | [Link](https://react-twitter-card.vercel.app)
+| 01  | Tic-Tac-Toe | useState | [Link](https://react-t-t-t.vercel.app/)
 
