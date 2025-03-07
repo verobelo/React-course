@@ -42,7 +42,7 @@ function App() {
     const newTurn = turn === TURNS.X ? TURNS.O : TURNS.X;
     setTurn(newTurn);
     window.localStorage.setItem("board", JSON.stringify(newBoard));
-    window.localStorage.setItem("turn", turn);
+    window.localStorage.setItem("turn", newTurn);
     const newWinner = checkWinner(newBoard);
     if (newWinner) {
       setWinner(newWinner);
