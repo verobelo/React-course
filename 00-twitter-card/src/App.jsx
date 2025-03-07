@@ -4,7 +4,7 @@ import { TwitterFollowCard } from "./TwitterFollowCard.jsx";
 
 const users = [
   { name: "Auronplay", userName: "auronplay", isFollowing: false },
-  { name: "Perxitaa", userName: "Perxitaa", isFollowing: true },
+  { name: "Perxitaa", userName: "perxitaa", isFollowing: true },
   { name: "TheGrefg", userName: "thegrefg", isFollowing: false },
   { name: "Gemita", userName: "gemita", isFollowing: true },
 ];
