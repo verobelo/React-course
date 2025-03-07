@@ -1,5 +1,8 @@
-## React-based projects from the course by [@midudev](https://cursoreact.dev/)
+**_React-based projects from the course by [@midudev](https://cursoreact.dev/)_**
 
-## List of the projects
-- TWITTER FOLLOW-CARDS (*Basic React concepts (Components, props, styling)*)
-- TIC - TAC - TOE (*useState && useEffect Hooks, handling Events*)
+**PROJECTS && SKILLS LEARNT**
+
+1. Twitter Follow-Card (Core concepts of React: components, props, styling)
+2. Tic-Tac-Toe (Hooks: useState && useEffect)
+
+--- 
