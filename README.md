@@ -2,8 +2,8 @@
 
 **PROJECTS && CONCEPTS LEARNT**
 
-| Number  | Name | Concepts|
-| :--- | :--- | :--- |
-| 00  | Twitter Card | Components, props, styling |
+| Number  | Name | Concepts| Live |
+| :--- | :--- | :--- | :--- |
+| 00  | Twitter Card | Components, props, styling | [Link](react-twitter-card.vercel.card)
 | 01  | Tic-Tac-Toe | useState |
 
