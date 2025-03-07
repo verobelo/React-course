@@ -1,5 +1,5 @@
 import "./App.css";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import confetti from "canvas-confetti";
 import Square from "./components/Square.jsx";
 import { TURNS, WINNERS_COMBINATIONS } from "./components/constants.js";
@@ -51,6 +51,10 @@ function App() {
       setWinner(false);
     }
   };
+
+  useEffect(() => {
+    console.log("We have a winner: ", winner);
+  }, [winner]);
 
   const resetGame = () => {
     setBoard(Array(9).fill(null));
