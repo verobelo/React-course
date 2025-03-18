@@ -6,7 +6,7 @@ const users = [
   { name: "Auronplay", userName: "auronplay", isFollowing: false },
   { name: "Perxitaa", userName: "perxitaa", isFollowing: true },
   { name: "Ibai", userName: "ibai", isFollowing: false },
-  { name: "Gemita", userName: "gemita", isFollowing: true },
+  { name: "Spursito", userName: "spursito", isFollowing: true },
 ];
 
 export function App() {
